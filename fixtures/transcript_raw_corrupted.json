@@ -1,0 +1,4623 @@
+{
+  "isOffline": false,
+  "hasUserRenamedSpeakers": false,
+  "hasSpeakerNames": false,
+  "utterances": [
+    {
+      "isA": false,
+      "isQ": false,
+      "speaker": "THE REPORTER",
+      "start": 2400,
+      "words": [
+        {
+          "start": 2400,
+          "text": "Good"
+        },
+        {
+          "start": 2480,
+          "text": "morning."
+        },
+        {
+          "start": 2880,
+          "text": "My"
+        },
+        {
+          "start": 3040,
+          "text": "name"
+        },
+        {
+          "start": 3120,
+          "text": "is"
+        },
+        {
+          "start": 3840,
+          "text": "Wes"
+        },
+        {
+          "start": 4160,
+          "text": "Harold,"
+        },
+        {
+          "start": 4480,
+          "text": "and"
+        },
+        {
+          "start": 4560,
+          "text": "I"
+        },
+        {
+          "start": 4560,
+          "text": "am"
+        },
+        {
+          "start": 4640,
+          "text": "the"
+        },
+        {
+          "start": 5040,
+          "text": "reporter"
+        },
+        {
+          "start": 6560,
+          "text": "assigned"
+        },
+        {
+          "start": 6720,
+          "text": "to"
+        },
+        {
+          "start": 7680,
+          "text": "this"
+        },
+        {
+          "start": 8320,
+          "text": "mock"
+        },
+        {
+          "start": 8560,
+          "text": "deposition."
+        },
+        {
+          "start": 10960,
+          "text": "And"
+        },
+        {
+          "start": 11600,
+          "text": "councel."
+        },
+        {
+          "start": 12000,
+          "text": "You"
+        },
+        {
+          "start": 12080,
+          "text": "may"
+        },
+        {
+          "start": 12240,
+          "text": "begin."
+        }
+      ]
+    },
+    {
+      "isA": false,
+      "isQ": false,
+      "speaker": "MS. SELIGMAN",
+      "start": 17920,
+      "words": [
+        {
+          "start": 16000,
+          "text": "Good"
+        },
+        {
+          "start": 18000,
+          "text": "morning,"
+        },
+        {
+          "start": 18720,
+          "text": "Ms."
+        },
+        {
+          "start": 18880,
+          "text": "Jacob."
+        },
+        {
+          "start": 20240,
+          "text": "Good"
+        },
+        {
+          "start": 20400,
+          "text": "morning."
+        },
+        {
+          "start": 21840,
+          "text": "My"
+        },
+        {
+          "start": 22000,
+          "text": "name"
+        },
+        {
+          "start": 22240,
+          "text": "is"
+        },
+        {
+          "start": 22880,
+          "text": "Jerry"
+        },
+        {
+          "start": 23280,
+          "text": "Sellingman."
+        },
+        {
+          "start": 24480,
+          "text": "I'm"
+        },
+        {
+          "start": 24640,
+          "text": "from"
+        },
+        {
+          "start": 24880,
+          "text": "the"
+        },
+        {
+          "start": 25040,
+          "text": "law"
+        },
+        {
+          "start": 25280,
+          "text": "firm"
+        },
+        {
+          "start": 25840,
+          "text": "of"
+        },
+        {
+          "start": 26000,
+          "text": "Richmond"
+        },
+        {
+          "start": 26400,
+          "text": "and"
+        },
+        {
+          "start": 26880,
+          "text": "Levine,"
+        },
+        {
+          "start": 27920,
+          "text": "P.C."
+        },
+        {
+          "start": 28560,
+          "text": "we"
+        },
+        {
+          "start": 29200,
+          "text": "represent"
+        },
+        {
+          "start": 30160,
+          "text": "scientists"
+        },
+        {
+          "start": 30640,
+          "text": "Moonlite"
+        },
+        {
+          "start": 31200,
+          "text": "Plaza"
+        },
+        {
+          "start": 31840,
+          "text": "Association"
+        },
+        {
+          "start": 32080,
+          "text": "in"
+        },
+        {
+          "start": 32640,
+          "text": "this"
+        },
+        {
+          "start": 33120,
+          "text": "matter."
+        },
+        {
+          "start": 33440,
+          "text": "Can"
+        },
+        {
+          "start": 33600,
+          "text": "you"
+        },
+        {
+          "start": 33680,
+          "text": "hear"
+        },
+        {
+          "start": 34240,
+          "text": "me"
+        },
+        {
+          "start": 34720,
+          "text": "okay?"
+        },
+        {
+          "start": 35520,
+          "text": "Yes."
+        },
+        {
+          "start": 37120,
+          "text": "Okay,"
+        },
+        {
+          "start": 38080,
+          "text": "There's"
+        },
+        {
+          "start": 38240,
+          "text": "a"
+        },
+        {
+          "start": 38240,
+          "text": "little"
+        },
+        {
+          "start": 38480,
+          "text": "bit"
+        },
+        {
+          "start": 38640,
+          "text": "of"
+        },
+        {
+          "start": 39120,
+          "text": "a"
+        },
+        {
+          "start": 39200,
+          "text": "delay"
+        },
+        {
+          "start": 39760,
+          "text": "on"
+        },
+        {
+          "start": 40000,
+          "text": "your"
+        },
+        {
+          "start": 40080,
+          "text": "end,"
+        },
+        {
+          "start": 40880,
+          "text": "just"
+        },
+        {
+          "start": 41200,
+          "text": "for"
+        },
+        {
+          "start": 41280,
+          "text": "the"
+        },
+        {
+          "start": 41440,
+          "text": "record."
+        },
+        {
+          "start": 42480,
+          "text": "I"
+        },
+        {
+          "start": 42480,
+          "text": "just"
+        },
+        {
+          "start": 42560,
+          "text": "want"
+        },
+        {
+          "start": 42720,
+          "text": "to"
+        },
+        {
+          "start": 43360,
+          "text": "make"
+        },
+        {
+          "start": 43520,
+          "text": "you"
+        },
+        {
+          "start": 43680,
+          "text": "aware"
+        },
+        {
+          "start": 43760,
+          "text": "of"
+        },
+        {
+          "start": 44560,
+          "text": "that."
+        },
+        {
+          "start": 45040,
+          "text": "But"
+        },
+        {
+          "start": 45680,
+          "text": "this"
+        },
+        {
+          "start": 45680,
+          "text": "is"
+        },
+        {
+          "start": 46320,
+          "text": "a"
+        },
+        {
+          "start": 46400,
+          "text": "newer"
+        },
+        {
+          "start": 46640,
+          "text": "platform,"
+        },
+        {
+          "start": 47440,
+          "text": "so"
+        },
+        {
+          "start": 47680,
+          "text": "if"
+        },
+        {
+          "start": 47760,
+          "text": "you"
+        },
+        {
+          "start": 48000,
+          "text": "have"
+        },
+        {
+          "start": 48400,
+          "text": "any"
+        },
+        {
+          "start": 48720,
+          "text": "technical"
+        },
+        {
+          "start": 49600,
+          "text": "issues,"
+        },
+        {
+          "start": 50720,
+          "text": "accessing"
+        },
+        {
+          "start": 51360,
+          "text": "a"
+        },
+        {
+          "start": 51440,
+          "text": "document,"
+        },
+        {
+          "start": 52480,
+          "text": "reviewing"
+        },
+        {
+          "start": 53440,
+          "text": "a"
+        },
+        {
+          "start": 53520,
+          "text": "document,"
+        },
+        {
+          "start": 54480,
+          "text": "or"
+        },
+        {
+          "start": 54560,
+          "text": "if"
+        },
+        {
+          "start": 54640,
+          "text": "you"
+        },
+        {
+          "start": 54800,
+          "text": "have"
+        },
+        {
+          "start": 55200,
+          "text": "any"
+        },
+        {
+          "start": 55280,
+          "text": "issues"
+        },
+        {
+          "start": 55600,
+          "text": "at"
+        },
+        {
+          "start": 55680,
+          "text": "all."
+        },
+        {
+          "start": 56400,
+          "text": "Please"
+        },
+        {
+          "start": 57200,
+          "text": "don't"
+        },
+        {
+          "start": 57280,
+          "text": "hesitate"
+        },
+        {
+          "start": 57760,
+          "text": "to"
+        },
+        {
+          "start": 58000,
+          "text": "let"
+        },
+        {
+          "start": 58160,
+          "text": "me"
+        },
+        {
+          "start": 58240,
+          "text": "know."
+        },
+        {
+          "start": 58480,
+          "text": "And"
+        },
+        {
+          "start": 58800,
+          "text": "we'll"
+        },
+        {
+          "start": 58960,
+          "text": "just"
+        },
+        {
+          "start": 59040,
+          "text": "get"
+        },
+        {
+          "start": 59440,
+          "text": "that"
+        },
+        {
+          "start": 59760,
+          "text": "squared"
+        },
+        {
+          "start": 60080,
+          "text": "away,"
+        },
+        {
+          "start": 60240,
+          "text": "okay?"
+        },
+        {
+          "start": 63840,
+          "text": "All"
+        },
+        {
+          "start": 64080,
+          "text": "right,"
+        },
+        {
+          "start": 64960,
+          "text": "Ms."
+        },
+        {
+          "start": 65120,
+          "text": "Jacob."
+        },
+        {
+          "start": 65760,
+          "text": "Returning"
+        },
+        {
+          "start": 66240,
+          "text": "to"
+        },
+        {
+          "start": 66800,
+          "text": "just"
+        },
+        {
+          "start": 67120,
+          "text": "my"
+        },
+        {
+          "start": 67280,
+          "text": "introductory"
+        },
+        {
+          "start": 68640,
+          "text": "field,"
+        },
+        {
+          "start": 69840,
+          "text": "I"
+        },
+        {
+          "start": 69840,
+          "text": "just"
+        },
+        {
+          "start": 69920,
+          "text": "have"
+        },
+        {
+          "start": 70640,
+          "text": "a"
+        },
+        {
+          "start": 70960,
+          "text": "list"
+        },
+        {
+          "start": 71440,
+          "text": "of"
+        },
+        {
+          "start": 71760,
+          "text": "general"
+        },
+        {
+          "start": 72160,
+          "text": "instructions"
+        },
+        {
+          "start": 73360,
+          "text": "I"
+        },
+        {
+          "start": 73520,
+          "text": "give"
+        },
+        {
+          "start": 73760,
+          "text": "to"
+        },
+        {
+          "start": 73920,
+          "text": "all"
+        },
+        {
+          "start": 74160,
+          "text": "defendants."
+        },
+        {
+          "start": 75520,
+          "text": "First"
+        },
+        {
+          "start": 76080,
+          "text": "I"
+        },
+        {
+          "start": 76560,
+          "text": "ask"
+        },
+        {
+          "start": 76720,
+          "text": "that"
+        },
+        {
+          "start": 76800,
+          "text": "you"
+        },
+        {
+          "start": 77120,
+          "text": "make"
+        },
+        {
+          "start": 77280,
+          "text": "your"
+        },
+        {
+          "start": 78000,
+          "text": "answers"
+        },
+        {
+          "start": 78480,
+          "text": "verbal."
+        },
+        {
+          "start": 79840,
+          "text": "A"
+        },
+        {
+          "start": 80000,
+          "text": "nod"
+        },
+        {
+          "start": 80240,
+          "text": "or"
+        },
+        {
+          "start": 80400,
+          "text": "an"
+        },
+        {
+          "start": 81040,
+          "text": "uh"
+        },
+        {
+          "start": 81280,
+          "text": "huh"
+        },
+        {
+          "start": 81680,
+          "text": "usually"
+        },
+        {
+          "start": 82400,
+          "text": "suffices"
+        },
+        {
+          "start": 83120,
+          "text": "in"
+        },
+        {
+          "start": 83360,
+          "text": "normal"
+        },
+        {
+          "start": 83600,
+          "text": "conversation,"
+        },
+        {
+          "start": 84640,
+          "text": "but"
+        },
+        {
+          "start": 85360,
+          "text": "in"
+        },
+        {
+          "start": 85520,
+          "text": "a"
+        },
+        {
+          "start": 85600,
+          "text": "deposition,"
+        },
+        {
+          "start": 86240,
+          "text": "it's"
+        },
+        {
+          "start": 86400,
+          "text": "important"
+        },
+        {
+          "start": 86880,
+          "text": "that"
+        },
+        {
+          "start": 86960,
+          "text": "we"
+        },
+        {
+          "start": 87120,
+          "text": "have"
+        },
+        {
+          "start": 87680,
+          "text": "a"
+        },
+        {
+          "start": 87760,
+          "text": "clear"
+        },
+        {
+          "start": 88400,
+          "text": "record,"
+        },
+        {
+          "start": 89600,
+          "text": "so"
+        },
+        {
+          "start": 90160,
+          "text": "please"
+        },
+        {
+          "start": 90400,
+          "text": "verbalize"
+        },
+        {
+          "start": 90800,
+          "text": "your"
+        },
+        {
+          "start": 91280,
+          "text": "response."
+        },
+        {
+          "start": 93040,
+          "text": "And"
+        },
+        {
+          "start": 93120,
+          "text": "especially"
+        },
+        {
+          "start": 94160,
+          "text": "with"
+        },
+        {
+          "start": 94400,
+          "text": "the"
+        },
+        {
+          "start": 94560,
+          "text": "delay,"
+        },
+        {
+          "start": 95360,
+          "text": "that's"
+        },
+        {
+          "start": 95520,
+          "text": "even"
+        },
+        {
+          "start": 95680,
+          "text": "more"
+        },
+        {
+          "start": 96000,
+          "text": "important."
+        },
+        {
+          "start": 97360,
+          "text": "So"
+        },
+        {
+          "start": 97520,
+          "text": "if"
+        },
+        {
+          "start": 97680,
+          "text": "you"
+        },
+        {
+          "start": 97760,
+          "text": "need"
+        },
+        {
+          "start": 98240,
+          "text": "a"
+        },
+        {
+          "start": 98320,
+          "text": "break"
+        },
+        {
+          "start": 98480,
+          "text": "at"
+        },
+        {
+          "start": 98560,
+          "text": "any"
+        },
+        {
+          "start": 98720,
+          "text": "time,"
+        },
+        {
+          "start": 99520,
+          "text": "don't"
+        },
+        {
+          "start": 99680,
+          "text": "hesitate"
+        },
+        {
+          "start": 100080,
+          "text": "to"
+        },
+        {
+          "start": 100400,
+          "text": "ask."
+        },
+        {
+          "start": 101520,
+          "text": "I"
+        },
+        {
+          "start": 102000,
+          "text": "just"
+        },
+        {
+          "start": 102160,
+          "text": "request"
+        },
+        {
+          "start": 102400,
+          "text": "that"
+        },
+        {
+          "start": 102560,
+          "text": "you"
+        },
+        {
+          "start": 103280,
+          "text": "finish"
+        },
+        {
+          "start": 103680,
+          "text": "the"
+        },
+        {
+          "start": 103760,
+          "text": "pending"
+        },
+        {
+          "start": 104000,
+          "text": "question"
+        },
+        {
+          "start": 104880,
+          "text": "before"
+        },
+        {
+          "start": 105120,
+          "text": "we"
+        },
+        {
+          "start": 105520,
+          "text": "do"
+        },
+        {
+          "start": 105680,
+          "text": "take"
+        },
+        {
+          "start": 105920,
+          "text": "a"
+        },
+        {
+          "start": 106400,
+          "text": "break."
+        },
+        {
+          "start": 107520,
+          "text": "And"
+        },
+        {
+          "start": 107600,
+          "text": "again,"
+        },
+        {
+          "start": 108240,
+          "text": "if"
+        },
+        {
+          "start": 108320,
+          "text": "you"
+        },
+        {
+          "start": 108560,
+          "text": "have"
+        },
+        {
+          "start": 108720,
+          "text": "any"
+        },
+        {
+          "start": 109280,
+          "text": "technical"
+        },
+        {
+          "start": 109760,
+          "text": "issues,"
+        },
+        {
+          "start": 112000,
+          "text": "please"
+        },
+        {
+          "start": 112320,
+          "text": "let"
+        },
+        {
+          "start": 112480,
+          "text": "me"
+        },
+        {
+          "start": 112480,
+          "text": "know."
+        },
+        {
+          "start": 115120,
+          "text": "Are"
+        },
+        {
+          "start": 115360,
+          "text": "you"
+        },
+        {
+          "start": 115760,
+          "text": "under"
+        },
+        {
+          "start": 116000,
+          "text": "the"
+        },
+        {
+          "start": 116160,
+          "text": "influence"
+        },
+        {
+          "start": 116480,
+          "text": "of"
+        },
+        {
+          "start": 116880,
+          "text": "any"
+        },
+        {
+          "start": 117280,
+          "text": "medication"
+        },
+        {
+          "start": 118000,
+          "text": "which"
+        },
+        {
+          "start": 118720,
+          "text": "may"
+        },
+        {
+          "start": 119120,
+          "text": "impair"
+        },
+        {
+          "start": 119280,
+          "text": "your"
+        },
+        {
+          "start": 119440,
+          "text": "ability"
+        },
+        {
+          "start": 119680,
+          "text": "to"
+        },
+        {
+          "start": 120160,
+          "text": "testify"
+        },
+        {
+          "start": 120720,
+          "text": "today?"
+        },
+        {
+          "start": 122000,
+          "text": "No."
+        },
+        {
+          "start": 124000,
+          "text": "Okay."
+        },
+        {
+          "start": 124960,
+          "text": "Are"
+        },
+        {
+          "start": 125120,
+          "text": "you"
+        },
+        {
+          "start": 125200,
+          "text": "under"
+        },
+        {
+          "start": 125440,
+          "text": "the"
+        },
+        {
+          "start": 125760,
+          "text": "influence"
+        },
+        {
+          "start": 126400,
+          "text": "of"
+        },
+        {
+          "start": 126720,
+          "text": "any"
+        },
+        {
+          "start": 126960,
+          "text": "drugs"
+        },
+        {
+          "start": 127840,
+          "text": "or"
+        },
+        {
+          "start": 127920,
+          "text": "alcohol"
+        },
+        {
+          "start": 128720,
+          "text": "which"
+        },
+        {
+          "start": 129120,
+          "text": "may"
+        },
+        {
+          "start": 129360,
+          "text": "impair"
+        },
+        {
+          "start": 129840,
+          "text": "your"
+        },
+        {
+          "start": 130000,
+          "text": "ability"
+        },
+        {
+          "start": 130400,
+          "text": "to"
+        },
+        {
+          "start": 130720,
+          "text": "testify"
+        },
+        {
+          "start": 131600,
+          "text": "today?"
+        },
+        {
+          "start": 132880,
+          "text": "No."
+        },
+        {
+          "start": 134800,
+          "text": "Is"
+        },
+        {
+          "start": 134880,
+          "text": "there"
+        },
+        {
+          "start": 135040,
+          "text": "any"
+        },
+        {
+          "start": 135360,
+          "text": "reason"
+        },
+        {
+          "start": 136160,
+          "text": "you"
+        },
+        {
+          "start": 136160,
+          "text": "may"
+        },
+        {
+          "start": 136400,
+          "text": "not"
+        },
+        {
+          "start": 136800,
+          "text": "be"
+        },
+        {
+          "start": 136880,
+          "text": "able"
+        },
+        {
+          "start": 137120,
+          "text": "to"
+        },
+        {
+          "start": 137840,
+          "text": "truthfully"
+        },
+        {
+          "start": 138640,
+          "text": "answer"
+        },
+        {
+          "start": 138960,
+          "text": "the"
+        },
+        {
+          "start": 139200,
+          "text": "questions"
+        },
+        {
+          "start": 140000,
+          "text": "in"
+        },
+        {
+          "start": 140400,
+          "text": "this"
+        },
+        {
+          "start": 140720,
+          "text": "deposition?"
+        },
+        {
+          "start": 142480,
+          "text": "No."
+        },
+        {
+          "start": 144320,
+          "text": "Okay."
+        },
+        {
+          "start": 145520,
+          "text": "I'm"
+        },
+        {
+          "start": 145600,
+          "text": "presenting"
+        },
+        {
+          "start": 146000,
+          "text": "a"
+        },
+        {
+          "start": 146080,
+          "text": "document"
+        },
+        {
+          "start": 146640,
+          "text": "for"
+        },
+        {
+          "start": 146800,
+          "text": "you."
+        },
+        {
+          "start": 148400,
+          "text": "Excuse"
+        },
+        {
+          "start": 148640,
+          "text": "me."
+        },
+        {
+          "start": 149440,
+          "text": "Could"
+        },
+        {
+          "start": 149600,
+          "text": "we"
+        },
+        {
+          "start": 149760,
+          "text": "have"
+        },
+        {
+          "start": 149840,
+          "text": "this"
+        },
+        {
+          "start": 150480,
+          "text": "mark"
+        },
+        {
+          "start": 150800,
+          "text": "as"
+        },
+        {
+          "start": 151120,
+          "text": "Cannon"
+        },
+        {
+          "start": 152000,
+          "text": "Farms"
+        },
+        {
+          "start": 152320,
+          "text": "1,"
+        },
+        {
+          "start": 152560,
+          "text": "please?"
+        },
+        {
+          "start": 154640,
+          "text": "Absolutely."
+        },
+        {
+          "start": 160320,
+          "text": "Thank"
+        },
+        {
+          "start": 160400,
+          "text": "you."
+        },
+        {
+          "start": 166320,
+          "text": "Can"
+        },
+        {
+          "start": 166400,
+          "text": "we"
+        },
+        {
+          "start": 166560,
+          "text": "pull"
+        },
+        {
+          "start": 166800,
+          "text": "up"
+        },
+        {
+          "start": 169040,
+          "text": "cannon"
+        },
+        {
+          "start": 169920,
+          "text": "farms?"
+        },
+        {
+          "start": 170400,
+          "text": "One."
+        },
+        {
+          "start": 172640,
+          "text": "Great."
+        },
+        {
+          "start": 173520,
+          "text": "Miss"
+        },
+        {
+          "start": 173760,
+          "text": "Jacob,"
+        },
+        {
+          "start": 174080,
+          "text": "do"
+        },
+        {
+          "start": 174080,
+          "text": "you"
+        },
+        {
+          "start": 174320,
+          "text": "see"
+        },
+        {
+          "start": 174960,
+          "text": "the"
+        },
+        {
+          "start": 175040,
+          "text": "document?"
+        },
+        {
+          "start": 176160,
+          "text": "That's"
+        },
+        {
+          "start": 176320,
+          "text": "been"
+        },
+        {
+          "start": 176640,
+          "text": "marked"
+        },
+        {
+          "start": 177040,
+          "text": "as"
+        },
+        {
+          "start": 178240,
+          "text": "Cannon"
+        },
+        {
+          "start": 178880,
+          "text": "Farms"
+        },
+        {
+          "start": 179120,
+          "text": "1"
+        },
+        {
+          "start": 179440,
+          "text": "in"
+        },
+        {
+          "start": 179520,
+          "text": "front"
+        },
+        {
+          "start": 179520,
+          "text": "of"
+        },
+        {
+          "start": 179680,
+          "text": "you"
+        },
+        {
+          "start": 180000,
+          "text": "right"
+        },
+        {
+          "start": 180160,
+          "text": "now."
+        },
+        {
+          "start": 181120,
+          "text": "Yes."
+        },
+        {
+          "start": 182720,
+          "text": "Okay."
+        },
+        {
+          "start": 183600,
+          "text": "Do"
+        },
+        {
+          "start": 183680,
+          "text": "you"
+        },
+        {
+          "start": 183760,
+          "text": "recognize"
+        },
+        {
+          "start": 184800,
+          "text": "this"
+        },
+        {
+          "start": 184880,
+          "text": "document?"
+        },
+        {
+          "start": 185840,
+          "text": "I"
+        },
+        {
+          "start": 185920,
+          "text": "do."
+        },
+        {
+          "start": 187280,
+          "text": "Okay?"
+        },
+        {
+          "start": 188640,
+          "text": "And"
+        },
+        {
+          "start": 188880,
+          "text": "have"
+        },
+        {
+          "start": 189040,
+          "text": "you"
+        },
+        {
+          "start": 189280,
+          "text": "reviewed"
+        },
+        {
+          "start": 189600,
+          "text": "this"
+        },
+        {
+          "start": 190080,
+          "text": "document?"
+        },
+        {
+          "start": 191040,
+          "text": "Yes."
+        },
+        {
+          "start": 193040,
+          "text": "And"
+        },
+        {
+          "start": 193360,
+          "text": "have"
+        },
+        {
+          "start": 193440,
+          "text": "you"
+        },
+        {
+          "start": 193600,
+          "text": "been"
+        },
+        {
+          "start": 194000,
+          "text": "designated"
+        },
+        {
+          "start": 195120,
+          "text": "by"
+        },
+        {
+          "start": 195360,
+          "text": "Cannon"
+        },
+        {
+          "start": 196000,
+          "text": "Farms"
+        },
+        {
+          "start": 196480,
+          "text": "as"
+        },
+        {
+          "start": 196800,
+          "text": "the"
+        },
+        {
+          "start": 197280,
+          "text": "deponent"
+        },
+        {
+          "start": 197840,
+          "text": "to"
+        },
+        {
+          "start": 198240,
+          "text": "discuss"
+        },
+        {
+          "start": 199040,
+          "text": "and"
+        },
+        {
+          "start": 199120,
+          "text": "testify"
+        },
+        {
+          "start": 200080,
+          "text": "regarding"
+        },
+        {
+          "start": 201040,
+          "text": "the"
+        },
+        {
+          "start": 201120,
+          "text": "topics"
+        },
+        {
+          "start": 202080,
+          "text": "on"
+        },
+        {
+          "start": 202560,
+          "text": "the"
+        },
+        {
+          "start": 203280,
+          "text": "interrogatory?"
+        },
+        {
+          "start": 204400,
+          "text": "Yes."
+        },
+        {
+          "start": 205680,
+          "text": "Okay?"
+        },
+        {
+          "start": 207520,
+          "text": "And"
+        },
+        {
+          "start": 207840,
+          "text": "what"
+        },
+        {
+          "start": 208080,
+          "text": "is"
+        },
+        {
+          "start": 208240,
+          "text": "your"
+        },
+        {
+          "start": 208640,
+          "text": "present"
+        },
+        {
+          "start": 208880,
+          "text": "position"
+        },
+        {
+          "start": 209840,
+          "text": "with"
+        },
+        {
+          "start": 210320,
+          "text": "Cannon"
+        },
+        {
+          "start": 211200,
+          "text": "Farms?"
+        },
+        {
+          "start": 212240,
+          "text": "I"
+        },
+        {
+          "start": 212400,
+          "text": "am"
+        },
+        {
+          "start": 212640,
+          "text": "a"
+        },
+        {
+          "start": 212720,
+          "text": "senior"
+        },
+        {
+          "start": 213360,
+          "text": "environmental"
+        },
+        {
+          "start": 214000,
+          "text": "project"
+        },
+        {
+          "start": 214480,
+          "text": "manager."
+        },
+        {
+          "start": 216400,
+          "text": "And"
+        },
+        {
+          "start": 216720,
+          "text": "what"
+        },
+        {
+          "start": 216960,
+          "text": "are"
+        },
+        {
+          "start": 217280,
+          "text": "your"
+        },
+        {
+          "start": 217520,
+          "text": "duties"
+        },
+        {
+          "start": 217920,
+          "text": "as"
+        },
+        {
+          "start": 218480,
+          "text": "a"
+        },
+        {
+          "start": 218800,
+          "text": "senior"
+        },
+        {
+          "start": 219120,
+          "text": "environmental"
+        },
+        {
+          "start": 220400,
+          "text": "project"
+        },
+        {
+          "start": 220560,
+          "text": "manager?"
+        },
+        {
+          "start": 222320,
+          "text": "I"
+        },
+        {
+          "start": 222640,
+          "text": "oversee"
+        },
+        {
+          "start": 223360,
+          "text": "assessment"
+        },
+        {
+          "start": 223840,
+          "text": "and"
+        },
+        {
+          "start": 224160,
+          "text": "remediation"
+        },
+        {
+          "start": 224800,
+          "text": "work"
+        },
+        {
+          "start": 225120,
+          "text": "on"
+        },
+        {
+          "start": 225440,
+          "text": "sites"
+        },
+        {
+          "start": 225680,
+          "text": "that"
+        },
+        {
+          "start": 225760,
+          "text": "have"
+        },
+        {
+          "start": 226080,
+          "text": "open"
+        },
+        {
+          "start": 226800,
+          "text": "spills."
+        },
+        {
+          "start": 230080,
+          "text": "When"
+        },
+        {
+          "start": 230160,
+          "text": "you"
+        },
+        {
+          "start": 230480,
+          "text": "say"
+        },
+        {
+          "start": 230960,
+          "text": "oversee,"
+        },
+        {
+          "start": 232400,
+          "text": "do"
+        },
+        {
+          "start": 232480,
+          "text": "you"
+        },
+        {
+          "start": 232560,
+          "text": "directly"
+        },
+        {
+          "start": 233600,
+          "text": "oversee"
+        },
+        {
+          "start": 233840,
+          "text": "the"
+        },
+        {
+          "start": 234400,
+          "text": "remediation"
+        },
+        {
+          "start": 235120,
+          "text": "of"
+        },
+        {
+          "start": 235600,
+          "text": "those"
+        },
+        {
+          "start": 235920,
+          "text": "sites?"
+        },
+        {
+          "start": 237600,
+          "text": "No."
+        },
+        {
+          "start": 238000,
+          "text": "We"
+        },
+        {
+          "start": 238400,
+          "text": "hire"
+        },
+        {
+          "start": 239280,
+          "text": "environmental"
+        },
+        {
+          "start": 239760,
+          "text": "consultants"
+        },
+        {
+          "start": 240320,
+          "text": "for"
+        },
+        {
+          "start": 240400,
+          "text": "the"
+        },
+        {
+          "start": 240800,
+          "text": "day"
+        },
+        {
+          "start": 241040,
+          "text": "to"
+        },
+        {
+          "start": 241120,
+          "text": "day"
+        },
+        {
+          "start": 241280,
+          "text": "activities."
+        },
+        {
+          "start": 243520,
+          "text": "And"
+        },
+        {
+          "start": 244080,
+          "text": "do"
+        },
+        {
+          "start": 244240,
+          "text": "you"
+        },
+        {
+          "start": 244880,
+          "text": "interface"
+        },
+        {
+          "start": 245360,
+          "text": "with"
+        },
+        {
+          "start": 245920,
+          "text": "those"
+        },
+        {
+          "start": 246560,
+          "text": "environmental"
+        },
+        {
+          "start": 247280,
+          "text": "consultants?"
+        },
+        {
+          "start": 248640,
+          "text": "Yes,"
+        },
+        {
+          "start": 248960,
+          "text": "I"
+        },
+        {
+          "start": 249040,
+          "text": "do."
+        },
+        {
+          "start": 250800,
+          "text": "And"
+        },
+        {
+          "start": 250960,
+          "text": "do"
+        },
+        {
+          "start": 251120,
+          "text": "you"
+        },
+        {
+          "start": 251680,
+          "text": "revise"
+        },
+        {
+          "start": 252240,
+          "text": "documents"
+        },
+        {
+          "start": 252880,
+          "text": "provided"
+        },
+        {
+          "start": 253280,
+          "text": "to"
+        },
+        {
+          "start": 253280,
+          "text": "you"
+        },
+        {
+          "start": 254480,
+          "text": "by"
+        },
+        {
+          "start": 254880,
+          "text": "those"
+        },
+        {
+          "start": 255040,
+          "text": "environmental"
+        },
+        {
+          "start": 256000,
+          "text": "consultants?"
+        },
+        {
+          "start": 258320,
+          "text": "Objection."
+        },
+        {
+          "start": 258880,
+          "text": "You"
+        },
+        {
+          "start": 258960,
+          "text": "may"
+        },
+        {
+          "start": 259120,
+          "text": "answer."
+        },
+        {
+          "start": 260800,
+          "text": "I'm"
+        },
+        {
+          "start": 260880,
+          "text": "sorry"
+        },
+        {
+          "start": 261280,
+          "text": "I"
+        },
+        {
+          "start": 261520,
+          "text": "missed"
+        },
+        {
+          "start": 261680,
+          "text": "the"
+        },
+        {
+          "start": 261760,
+          "text": "first"
+        },
+        {
+          "start": 262000,
+          "text": "part"
+        },
+        {
+          "start": 262080,
+          "text": "of"
+        },
+        {
+          "start": 262480,
+          "text": "that."
+        },
+        {
+          "start": 265120,
+          "text": "So"
+        },
+        {
+          "start": 265280,
+          "text": "do"
+        },
+        {
+          "start": 265440,
+          "text": "you"
+        },
+        {
+          "start": 265920,
+          "text": "revise"
+        },
+        {
+          "start": 266320,
+          "text": "documents"
+        },
+        {
+          "start": 267440,
+          "text": "provided"
+        },
+        {
+          "start": 267600,
+          "text": "to"
+        },
+        {
+          "start": 267680,
+          "text": "you"
+        },
+        {
+          "start": 268480,
+          "text": "by"
+        },
+        {
+          "start": 268720,
+          "text": "those"
+        },
+        {
+          "start": 269360,
+          "text": "environmental"
+        },
+        {
+          "start": 270560,
+          "text": "consultants?"
+        },
+        {
+          "start": 271760,
+          "text": "I"
+        },
+        {
+          "start": 272080,
+          "text": "review"
+        },
+        {
+          "start": 272320,
+          "text": "them."
+        },
+        {
+          "start": 273600,
+          "text": "Do"
+        },
+        {
+          "start": 273680,
+          "text": "you"
+        },
+        {
+          "start": 273920,
+          "text": "discuss"
+        },
+        {
+          "start": 274800,
+          "text": "those"
+        },
+        {
+          "start": 274960,
+          "text": "documents"
+        },
+        {
+          "start": 275360,
+          "text": "with"
+        },
+        {
+          "start": 276400,
+          "text": "the."
+        },
+        {
+          "start": 276960,
+          "text": "And"
+        },
+        {
+          "start": 277280,
+          "text": "I"
+        },
+        {
+          "start": 277360,
+          "text": "will"
+        },
+        {
+          "start": 277520,
+          "text": "make"
+        },
+        {
+          "start": 277760,
+          "text": "edit."
+        },
+        {
+          "start": 278320,
+          "text": "I'm"
+        },
+        {
+          "start": 278400,
+          "text": "sorry."
+        },
+        {
+          "start": 279200,
+          "text": "Could"
+        },
+        {
+          "start": 279360,
+          "text": "we"
+        },
+        {
+          "start": 279600,
+          "text": "please"
+        },
+        {
+          "start": 279840,
+          "text": "speak"
+        },
+        {
+          "start": 280320,
+          "text": "one"
+        },
+        {
+          "start": 280480,
+          "text": "at"
+        },
+        {
+          "start": 280560,
+          "text": "a"
+        },
+        {
+          "start": 280560,
+          "text": "time,"
+        },
+        {
+          "start": 280960,
+          "text": "please?"
+        },
+        {
+          "start": 283120,
+          "text": "Sorry."
+        },
+        {
+          "start": 285600,
+          "text": "Do"
+        },
+        {
+          "start": 285680,
+          "text": "you"
+        },
+        {
+          "start": 285920,
+          "text": "discuss"
+        },
+        {
+          "start": 286160,
+          "text": "those"
+        },
+        {
+          "start": 286480,
+          "text": "documents"
+        },
+        {
+          "start": 287760,
+          "text": "with"
+        },
+        {
+          "start": 287920,
+          "text": "the"
+        },
+        {
+          "start": 288160,
+          "text": "environmental"
+        },
+        {
+          "start": 289120,
+          "text": "consultants?"
+        },
+        {
+          "start": 290240,
+          "text": "Yes."
+        },
+        {
+          "start": 293200,
+          "text": "And"
+        },
+        {
+          "start": 293440,
+          "text": "do"
+        },
+        {
+          "start": 293520,
+          "text": "you"
+        },
+        {
+          "start": 293920,
+          "text": "give"
+        },
+        {
+          "start": 294000,
+          "text": "them"
+        },
+        {
+          "start": 294640,
+          "text": "direction"
+        },
+        {
+          "start": 295360,
+          "text": "on"
+        },
+        {
+          "start": 296000,
+          "text": "how"
+        },
+        {
+          "start": 296960,
+          "text": "they're"
+        },
+        {
+          "start": 297040,
+          "text": "to"
+        },
+        {
+          "start": 297440,
+          "text": "proceed"
+        },
+        {
+          "start": 298000,
+          "text": "at"
+        },
+        {
+          "start": 298080,
+          "text": "a"
+        },
+        {
+          "start": 298080,
+          "text": "particular"
+        },
+        {
+          "start": 298640,
+          "text": "site?"
+        },
+        {
+          "start": 300960,
+          "text": "We"
+        },
+        {
+          "start": 301280,
+          "text": "discuss"
+        },
+        {
+          "start": 301920,
+          "text": "remedial"
+        },
+        {
+          "start": 302880,
+          "text": "scope"
+        },
+        {
+          "start": 303200,
+          "text": "and"
+        },
+        {
+          "start": 303440,
+          "text": "assessment"
+        },
+        {
+          "start": 304000,
+          "text": "scope."
+        },
+        {
+          "start": 304880,
+          "text": "I"
+        },
+        {
+          "start": 304960,
+          "text": "do"
+        },
+        {
+          "start": 305040,
+          "text": "not"
+        },
+        {
+          "start": 305440,
+          "text": "tell"
+        },
+        {
+          "start": 305680,
+          "text": "them"
+        },
+        {
+          "start": 306320,
+          "text": "how"
+        },
+        {
+          "start": 306720,
+          "text": "to"
+        },
+        {
+          "start": 306800,
+          "text": "prepare"
+        },
+        {
+          "start": 306960,
+          "text": "the"
+        },
+        {
+          "start": 307280,
+          "text": "reports"
+        },
+        {
+          "start": 307600,
+          "text": "for"
+        },
+        {
+          "start": 307920,
+          "text": "submittal"
+        },
+        {
+          "start": 308160,
+          "text": "to"
+        },
+        {
+          "start": 308240,
+          "text": "the"
+        },
+        {
+          "start": 308400,
+          "text": "regulatory"
+        },
+        {
+          "start": 309200,
+          "text": "authorities."
+        },
+        {
+          "start": 313280,
+          "text": "Do"
+        },
+        {
+          "start": 313360,
+          "text": "you"
+        },
+        {
+          "start": 313520,
+          "text": "tell"
+        },
+        {
+          "start": 313680,
+          "text": "them"
+        },
+        {
+          "start": 314080,
+          "text": "the"
+        },
+        {
+          "start": 314480,
+          "text": "exact"
+        },
+        {
+          "start": 315120,
+          "text": "scope"
+        },
+        {
+          "start": 315280,
+          "text": "of"
+        },
+        {
+          "start": 315600,
+          "text": "their"
+        },
+        {
+          "start": 316000,
+          "text": "work?"
+        },
+        {
+          "start": 317360,
+          "text": "Objection."
+        },
+        {
+          "start": 318000,
+          "text": "Please"
+        },
+        {
+          "start": 318160,
+          "text": "answer."
+        },
+        {
+          "start": 319840,
+          "text": "No."
+        },
+        {
+          "start": 320240,
+          "text": "They"
+        },
+        {
+          "start": 320560,
+          "text": "present"
+        },
+        {
+          "start": 320800,
+          "text": "it"
+        },
+        {
+          "start": 320880,
+          "text": "to"
+        },
+        {
+          "start": 321040,
+          "text": "me"
+        },
+        {
+          "start": 321520,
+          "text": "and"
+        },
+        {
+          "start": 321840,
+          "text": "we"
+        },
+        {
+          "start": 322160,
+          "text": "discuss"
+        },
+        {
+          "start": 322320,
+          "text": "it."
+        },
+        {
+          "start": 324480,
+          "text": "Ok?"
+        },
+        {
+          "start": 326320,
+          "text": "So"
+        },
+        {
+          "start": 326960,
+          "text": "if"
+        },
+        {
+          "start": 327120,
+          "text": "Cannon"
+        },
+        {
+          "start": 328000,
+          "text": "Farms"
+        },
+        {
+          "start": 328320,
+          "text": "were"
+        },
+        {
+          "start": 328800,
+          "text": "to"
+        },
+        {
+          "start": 329040,
+          "text": "adjust"
+        },
+        {
+          "start": 330000,
+          "text": "a"
+        },
+        {
+          "start": 330400,
+          "text": "scope"
+        },
+        {
+          "start": 331120,
+          "text": "provided"
+        },
+        {
+          "start": 331280,
+          "text": "by"
+        },
+        {
+          "start": 332160,
+          "text": "an"
+        },
+        {
+          "start": 332320,
+          "text": "environmental"
+        },
+        {
+          "start": 333280,
+          "text": "consultant"
+        },
+        {
+          "start": 334720,
+          "text": "with"
+        },
+        {
+          "start": 335040,
+          "text": "respect"
+        },
+        {
+          "start": 335280,
+          "text": "to"
+        },
+        {
+          "start": 336000,
+          "text": "remediation,"
+        },
+        {
+          "start": 337120,
+          "text": "what"
+        },
+        {
+          "start": 338000,
+          "text": "would"
+        },
+        {
+          "start": 338240,
+          "text": "Cancun's"
+        },
+        {
+          "start": 339040,
+          "text": "adjustment"
+        },
+        {
+          "start": 339520,
+          "text": "be"
+        },
+        {
+          "start": 339760,
+          "text": "based"
+        },
+        {
+          "start": 340080,
+          "text": "on?"
+        },
+        {
+          "start": 341600,
+          "text": "It"
+        },
+        {
+          "start": 341680,
+          "text": "would"
+        },
+        {
+          "start": 341760,
+          "text": "be"
+        },
+        {
+          "start": 342080,
+          "text": "based"
+        },
+        {
+          "start": 342240,
+          "text": "on"
+        },
+        {
+          "start": 342880,
+          "text": "discussions"
+        },
+        {
+          "start": 343200,
+          "text": "with"
+        },
+        {
+          "start": 343760,
+          "text": "the"
+        },
+        {
+          "start": 343840,
+          "text": "consultant"
+        },
+        {
+          "start": 344160,
+          "text": "and"
+        },
+        {
+          "start": 344240,
+          "text": "the"
+        },
+        {
+          "start": 344800,
+          "text": "exact"
+        },
+        {
+          "start": 345280,
+          "text": "scope"
+        },
+        {
+          "start": 345360,
+          "text": "of"
+        },
+        {
+          "start": 345680,
+          "text": "work"
+        },
+        {
+          "start": 346080,
+          "text": "that"
+        },
+        {
+          "start": 346320,
+          "text": "would"
+        },
+        {
+          "start": 346480,
+          "text": "be"
+        },
+        {
+          "start": 346720,
+          "text": "completed."
+        },
+        {
+          "start": 348320,
+          "text": "As"
+        },
+        {
+          "start": 348400,
+          "text": "to"
+        },
+        {
+          "start": 348720,
+          "text": "its"
+        },
+        {
+          "start": 348800,
+          "text": "completeness."
+        },
+        {
+          "start": 351440,
+          "text": "Well,"
+        },
+        {
+          "start": 351680,
+          "text": "how"
+        },
+        {
+          "start": 354240,
+          "text": "does"
+        },
+        {
+          "start": 354560,
+          "text": "Cannon"
+        },
+        {
+          "start": 355520,
+          "text": "Farms"
+        },
+        {
+          "start": 355760,
+          "text": "determine"
+        },
+        {
+          "start": 356320,
+          "text": "what's"
+        },
+        {
+          "start": 356720,
+          "text": "appropriate"
+        },
+        {
+          "start": 357600,
+          "text": "or"
+        },
+        {
+          "start": 358000,
+          "text": "what's"
+        },
+        {
+          "start": 358800,
+          "text": "an"
+        },
+        {
+          "start": 358880,
+          "text": "appropriate"
+        },
+        {
+          "start": 359760,
+          "text": "scope"
+        },
+        {
+          "start": 360000,
+          "text": "of"
+        },
+        {
+          "start": 360160,
+          "text": "work"
+        },
+        {
+          "start": 360480,
+          "text": "under"
+        },
+        {
+          "start": 361040,
+          "text": "the"
+        },
+        {
+          "start": 361200,
+          "text": "circumstances?"
+        },
+        {
+          "start": 363120,
+          "text": "If"
+        },
+        {
+          "start": 363200,
+          "text": "you"
+        },
+        {
+          "start": 363360,
+          "text": "can"
+        },
+        {
+          "start": 363520,
+          "text": "answer"
+        },
+        {
+          "start": 363680,
+          "text": "that,"
+        },
+        {
+          "start": 364400,
+          "text": "Chris."
+        },
+        {
+          "start": 366320,
+          "text": "I"
+        },
+        {
+          "start": 366480,
+          "text": "review"
+        },
+        {
+          "start": 367040,
+          "text": "the"
+        },
+        {
+          "start": 367280,
+          "text": "site"
+        },
+        {
+          "start": 367440,
+          "text": "history"
+        },
+        {
+          "start": 368000,
+          "text": "and"
+        },
+        {
+          "start": 368000,
+          "text": "the"
+        },
+        {
+          "start": 368160,
+          "text": "current"
+        },
+        {
+          "start": 368240,
+          "text": "conditions"
+        },
+        {
+          "start": 368480,
+          "text": "of"
+        },
+        {
+          "start": 368560,
+          "text": "the"
+        },
+        {
+          "start": 368960,
+          "text": "property"
+        },
+        {
+          "start": 369520,
+          "text": "with"
+        },
+        {
+          "start": 369600,
+          "text": "the"
+        },
+        {
+          "start": 369840,
+          "text": "consultant,"
+        },
+        {
+          "start": 370640,
+          "text": "and"
+        },
+        {
+          "start": 370800,
+          "text": "we"
+        },
+        {
+          "start": 371120,
+          "text": "discuss"
+        },
+        {
+          "start": 371440,
+          "text": "it"
+        },
+        {
+          "start": 371920,
+          "text": "and"
+        },
+        {
+          "start": 372000,
+          "text": "determine"
+        },
+        {
+          "start": 372480,
+          "text": "our"
+        },
+        {
+          "start": 372640,
+          "text": "plan"
+        },
+        {
+          "start": 373040,
+          "text": "to"
+        },
+        {
+          "start": 373120,
+          "text": "achieve"
+        },
+        {
+          "start": 373600,
+          "text": "closure."
+        },
+        {
+          "start": 377120,
+          "text": "So"
+        },
+        {
+          "start": 377520,
+          "text": "by"
+        },
+        {
+          "start": 378160,
+          "text": "site"
+        },
+        {
+          "start": 378480,
+          "text": "history,"
+        },
+        {
+          "start": 379200,
+          "text": "do"
+        },
+        {
+          "start": 379440,
+          "text": "you"
+        },
+        {
+          "start": 379600,
+          "text": "mean"
+        },
+        {
+          "start": 380320,
+          "text": "historical"
+        },
+        {
+          "start": 381440,
+          "text": "environmental"
+        },
+        {
+          "start": 382160,
+          "text": "documents"
+        },
+        {
+          "start": 383120,
+          "text": "associated"
+        },
+        {
+          "start": 383760,
+          "text": "with"
+        },
+        {
+          "start": 384240,
+          "text": "the"
+        },
+        {
+          "start": 384400,
+          "text": "property?"
+        },
+        {
+          "start": 385840,
+          "text": "I'm"
+        },
+        {
+          "start": 385920,
+          "text": "sorry"
+        },
+        {
+          "start": 386400,
+          "text": "I"
+        },
+        {
+          "start": 386640,
+          "text": "missed"
+        },
+        {
+          "start": 386800,
+          "text": "the"
+        },
+        {
+          "start": 386800,
+          "text": "first"
+        },
+        {
+          "start": 386960,
+          "text": "part"
+        },
+        {
+          "start": 387120,
+          "text": "of"
+        },
+        {
+          "start": 387200,
+          "text": "that"
+        },
+        {
+          "start": 387440,
+          "text": "again."
+        },
+        {
+          "start": 388880,
+          "text": "The"
+        },
+        {
+          "start": 389040,
+          "text": "connection"
+        },
+        {
+          "start": 389360,
+          "text": "is"
+        },
+        {
+          "start": 389440,
+          "text": "a"
+        },
+        {
+          "start": 389440,
+          "text": "little"
+        },
+        {
+          "start": 389920,
+          "text": "rough"
+        },
+        {
+          "start": 390080,
+          "text": "here."
+        },
+        {
+          "start": 392960,
+          "text": "All"
+        },
+        {
+          "start": 393040,
+          "text": "right."
+        },
+        {
+          "start": 394240,
+          "text": "So"
+        },
+        {
+          "start": 394800,
+          "text": "by"
+        },
+        {
+          "start": 394960,
+          "text": "site"
+        },
+        {
+          "start": 395200,
+          "text": "history,"
+        },
+        {
+          "start": 395840,
+          "text": "do"
+        },
+        {
+          "start": 395920,
+          "text": "you"
+        },
+        {
+          "start": 396240,
+          "text": "mean"
+        },
+        {
+          "start": 397360,
+          "text": "the"
+        },
+        {
+          "start": 397600,
+          "text": "historical"
+        },
+        {
+          "start": 398640,
+          "text": "environmental"
+        },
+        {
+          "start": 399360,
+          "text": "documents"
+        },
+        {
+          "start": 400240,
+          "text": "associated"
+        },
+        {
+          "start": 400800,
+          "text": "with"
+        },
+        {
+          "start": 401520,
+          "text": "the"
+        },
+        {
+          "start": 401600,
+          "text": "property?"
+        },
+        {
+          "start": 402720,
+          "text": "If"
+        },
+        {
+          "start": 403360,
+          "text": "they're"
+        },
+        {
+          "start": 403440,
+          "text": "available."
+        },
+        {
+          "start": 406000,
+          "text": "Ok."
+        },
+        {
+          "start": 407280,
+          "text": "And"
+        },
+        {
+          "start": 407920,
+          "text": "would"
+        },
+        {
+          "start": 408080,
+          "text": "you"
+        },
+        {
+          "start": 408480,
+          "text": "review"
+        },
+        {
+          "start": 408880,
+          "text": "any"
+        },
+        {
+          "start": 409520,
+          "text": "leases"
+        },
+        {
+          "start": 410160,
+          "text": "associated"
+        },
+        {
+          "start": 410880,
+          "text": "with"
+        },
+        {
+          "start": 411200,
+          "text": "the"
+        },
+        {
+          "start": 411360,
+          "text": "property"
+        },
+        {
+          "start": 412320,
+          "text": "and"
+        },
+        {
+          "start": 412400,
+          "text": "making"
+        },
+        {
+          "start": 413120,
+          "text": "that"
+        },
+        {
+          "start": 413200,
+          "text": "determination"
+        },
+        {
+          "start": 414240,
+          "text": "as"
+        },
+        {
+          "start": 414480,
+          "text": "to"
+        },
+        {
+          "start": 415280,
+          "text": "the"
+        },
+        {
+          "start": 415360,
+          "text": "scope"
+        },
+        {
+          "start": 415680,
+          "text": "of"
+        },
+        {
+          "start": 416160,
+          "text": "remediation?"
+        },
+        {
+          "start": 417920,
+          "text": "No,"
+        },
+        {
+          "start": 418960,
+          "text": "I"
+        },
+        {
+          "start": 419040,
+          "text": "normally"
+        },
+        {
+          "start": 419200,
+          "text": "do"
+        },
+        {
+          "start": 419360,
+          "text": "not"
+        },
+        {
+          "start": 420000,
+          "text": "review"
+        },
+        {
+          "start": 420400,
+          "text": "leases."
+        },
+        {
+          "start": 422000,
+          "text": "Ok."
+        },
+        {
+          "start": 424880,
+          "text": "Would"
+        },
+        {
+          "start": 425120,
+          "text": "an"
+        },
+        {
+          "start": 425280,
+          "text": "existing"
+        },
+        {
+          "start": 426240,
+          "text": "lease"
+        },
+        {
+          "start": 426400,
+          "text": "factor"
+        },
+        {
+          "start": 427040,
+          "text": "into"
+        },
+        {
+          "start": 427680,
+          "text": "the"
+        },
+        {
+          "start": 427840,
+          "text": "scope"
+        },
+        {
+          "start": 428240,
+          "text": "of"
+        },
+        {
+          "start": 428880,
+          "text": "remediation?"
+        },
+        {
+          "start": 430800,
+          "text": "Asked"
+        },
+        {
+          "start": 431120,
+          "text": "answered."
+        },
+        {
+          "start": 432560,
+          "text": "I"
+        },
+        {
+          "start": 432560,
+          "text": "would"
+        },
+        {
+          "start": 432800,
+          "text": "say"
+        },
+        {
+          "start": 433040,
+          "text": "no,"
+        },
+        {
+          "start": 433200,
+          "text": "because"
+        },
+        {
+          "start": 433920,
+          "text": "I"
+        },
+        {
+          "start": 433920,
+          "text": "don't"
+        },
+        {
+          "start": 434000,
+          "text": "review"
+        },
+        {
+          "start": 434240,
+          "text": "the"
+        },
+        {
+          "start": 434640,
+          "text": "leases."
+        },
+        {
+          "start": 435280,
+          "text": "I"
+        },
+        {
+          "start": 435280,
+          "text": "just"
+        },
+        {
+          "start": 435520,
+          "text": "work"
+        },
+        {
+          "start": 435600,
+          "text": "with"
+        },
+        {
+          "start": 435760,
+          "text": "my"
+        },
+        {
+          "start": 436080,
+          "text": "consultants"
+        },
+        {
+          "start": 436720,
+          "text": "to"
+        },
+        {
+          "start": 436880,
+          "text": "close"
+        },
+        {
+          "start": 437200,
+          "text": "the"
+        },
+        {
+          "start": 437360,
+          "text": "spills."
+        },
+        {
+          "start": 438800,
+          "text": "Ok,"
+        },
+        {
+          "start": 439760,
+          "text": "so"
+        },
+        {
+          "start": 440160,
+          "text": "closing"
+        },
+        {
+          "start": 441200,
+          "text": "the"
+        },
+        {
+          "start": 441440,
+          "text": "spills"
+        },
+        {
+          "start": 441840,
+          "text": "in"
+        },
+        {
+          "start": 442000,
+          "text": "accordance"
+        },
+        {
+          "start": 442240,
+          "text": "with"
+        },
+        {
+          "start": 442800,
+          "text": "state"
+        },
+        {
+          "start": 443040,
+          "text": "and"
+        },
+        {
+          "start": 443200,
+          "text": "local"
+        },
+        {
+          "start": 443680,
+          "text": "regulations"
+        },
+        {
+          "start": 445040,
+          "text": "for"
+        },
+        {
+          "start": 445440,
+          "text": "a"
+        },
+        {
+          "start": 445920,
+          "text": "no"
+        },
+        {
+          "start": 446160,
+          "text": "further"
+        },
+        {
+          "start": 446800,
+          "text": "action"
+        },
+        {
+          "start": 447120,
+          "text": "ladder."
+        },
+        {
+          "start": 448640,
+          "text": "Would"
+        },
+        {
+          "start": 448720,
+          "text": "that"
+        },
+        {
+          "start": 448960,
+          "text": "be"
+        },
+        {
+          "start": 449120,
+          "text": "fair"
+        },
+        {
+          "start": 449440,
+          "text": "to"
+        },
+        {
+          "start": 449600,
+          "text": "say?"
+        },
+        {
+          "start": 449920,
+          "text": "Yes."
+        },
+        {
+          "start": 451120,
+          "text": "Ok."
+        },
+        {
+          "start": 452800,
+          "text": "Ms."
+        },
+        {
+          "start": 452960,
+          "text": "Jacob,"
+        },
+        {
+          "start": 453680,
+          "text": "who"
+        },
+        {
+          "start": 454160,
+          "text": "do"
+        },
+        {
+          "start": 454160,
+          "text": "you"
+        },
+        {
+          "start": 454560,
+          "text": "report"
+        },
+        {
+          "start": 454800,
+          "text": "to"
+        },
+        {
+          "start": 455520,
+          "text": "at"
+        },
+        {
+          "start": 455760,
+          "text": "Cannon"
+        },
+        {
+          "start": 456400,
+          "text": "Farms?"
+        },
+        {
+          "start": 457520,
+          "text": "I"
+        },
+        {
+          "start": 457680,
+          "text": "report"
+        },
+        {
+          "start": 457840,
+          "text": "to"
+        },
+        {
+          "start": 458000,
+          "text": "Martin"
+        },
+        {
+          "start": 458400,
+          "text": "Hilfinger."
+        },
+        {
+          "start": 460000,
+          "text": "He's"
+        },
+        {
+          "start": 460720,
+          "text": "vice."
+        },
+        {
+          "start": 461360,
+          "text": "What?"
+        },
+        {
+          "start": 461760,
+          "text": "President."
+        },
+        {
+          "start": 462880,
+          "text": "I'm"
+        },
+        {
+          "start": 463040,
+          "text": "sorry."
+        },
+        {
+          "start": 463520,
+          "text": "I'm"
+        },
+        {
+          "start": 463680,
+          "text": "sorry"
+        },
+        {
+          "start": 464000,
+          "text": "to"
+        },
+        {
+          "start": 464080,
+          "text": "cut"
+        },
+        {
+          "start": 464240,
+          "text": "you"
+        },
+        {
+          "start": 464400,
+          "text": "off."
+        },
+        {
+          "start": 465840,
+          "text": "Ok."
+        },
+        {
+          "start": 466400,
+          "text": "He's"
+        },
+        {
+          "start": 466640,
+          "text": "the"
+        },
+        {
+          "start": 466880,
+          "text": "vice"
+        },
+        {
+          "start": 467280,
+          "text": "president"
+        },
+        {
+          "start": 467680,
+          "text": "of"
+        },
+        {
+          "start": 468720,
+          "text": "Environmental."
+        },
+        {
+          "start": 470480,
+          "text": "Ok."
+        },
+        {
+          "start": 471200,
+          "text": "And"
+        },
+        {
+          "start": 471680,
+          "text": "are"
+        },
+        {
+          "start": 471840,
+          "text": "you"
+        },
+        {
+          "start": 472000,
+          "text": "located"
+        },
+        {
+          "start": 472720,
+          "text": "in"
+        },
+        {
+          "start": 473120,
+          "text": "an"
+        },
+        {
+          "start": 473360,
+          "text": "environmental"
+        },
+        {
+          "start": 474160,
+          "text": "department"
+        },
+        {
+          "start": 475600,
+          "text": "at"
+        },
+        {
+          "start": 475760,
+          "text": "Cannon"
+        },
+        {
+          "start": 476080,
+          "text": "Farms?"
+        },
+        {
+          "start": 476400,
+          "text": "Yes."
+        },
+        {
+          "start": 478480,
+          "text": "And"
+        },
+        {
+          "start": 478800,
+          "text": "who"
+        },
+        {
+          "start": 478960,
+          "text": "do"
+        },
+        {
+          "start": 479040,
+          "text": "you"
+        },
+        {
+          "start": 480240,
+          "text": "have?"
+        },
+        {
+          "start": 480800,
+          "text": "And"
+        },
+        {
+          "start": 481040,
+          "text": "do"
+        },
+        {
+          "start": 481120,
+          "text": "you"
+        },
+        {
+          "start": 481200,
+          "text": "have"
+        },
+        {
+          "start": 481760,
+          "text": "individuals"
+        },
+        {
+          "start": 483120,
+          "text": "whom"
+        },
+        {
+          "start": 483760,
+          "text": "you"
+        },
+        {
+          "start": 484000,
+          "text": "supervise?"
+        },
+        {
+          "start": 484880,
+          "text": "No."
+        },
+        {
+          "start": 486960,
+          "text": "Ok."
+        },
+        {
+          "start": 487920,
+          "text": "No"
+        },
+        {
+          "start": 488240,
+          "text": "further"
+        },
+        {
+          "start": 488480,
+          "text": "questions"
+        },
+        {
+          "start": 489280,
+          "text": "on"
+        },
+        {
+          "start": 489680,
+          "text": "this"
+        },
+        {
+          "start": 489920,
+          "text": "document."
+        },
+        {
+          "start": 492320,
+          "text": "This"
+        },
+        {
+          "start": 492480,
+          "text": "reporter."
+        },
+        {
+          "start": 492720,
+          "text": "Could"
+        },
+        {
+          "start": 492880,
+          "text": "we"
+        },
+        {
+          "start": 492880,
+          "text": "have"
+        },
+        {
+          "start": 493520,
+          "text": "this"
+        },
+        {
+          "start": 493840,
+          "text": "Martha's"
+        },
+        {
+          "start": 494320,
+          "text": "Cannon"
+        },
+        {
+          "start": 495120,
+          "text": "Farms"
+        },
+        {
+          "start": 495600,
+          "text": "too,"
+        },
+        {
+          "start": 495680,
+          "text": "please?"
+        },
+        {
+          "start": 498560,
+          "text": "Yes."
+        },
+        {
+          "start": 499120,
+          "text": "This"
+        },
+        {
+          "start": 499280,
+          "text": "will"
+        },
+        {
+          "start": 499360,
+          "text": "be"
+        },
+        {
+          "start": 499760,
+          "text": "cannon"
+        },
+        {
+          "start": 500320,
+          "text": "farms"
+        },
+        {
+          "start": 501360,
+          "text": "too."
+        },
+        {
+          "start": 502080,
+          "text": "Thank"
+        },
+        {
+          "start": 502160,
+          "text": "you."
+        },
+        {
+          "start": 504240,
+          "text": "Miss"
+        },
+        {
+          "start": 504560,
+          "text": "Jacob,"
+        },
+        {
+          "start": 505760,
+          "text": "I've"
+        },
+        {
+          "start": 505920,
+          "text": "just"
+        },
+        {
+          "start": 506080,
+          "text": "displayed"
+        },
+        {
+          "start": 506640,
+          "text": "a"
+        },
+        {
+          "start": 506720,
+          "text": "document"
+        },
+        {
+          "start": 506960,
+          "text": "that's"
+        },
+        {
+          "start": 507360,
+          "text": "been"
+        },
+        {
+          "start": 507840,
+          "text": "marked"
+        },
+        {
+          "start": 508000,
+          "text": "as"
+        },
+        {
+          "start": 508480,
+          "text": "exhibit"
+        },
+        {
+          "start": 509440,
+          "text": "Cannon"
+        },
+        {
+          "start": 510480,
+          "text": "Farms,"
+        },
+        {
+          "start": 510880,
+          "text": "too."
+        },
+        {
+          "start": 511280,
+          "text": "Do"
+        },
+        {
+          "start": 511360,
+          "text": "you"
+        },
+        {
+          "start": 511440,
+          "text": "see"
+        },
+        {
+          "start": 511920,
+          "text": "that"
+        },
+        {
+          "start": 512080,
+          "text": "document"
+        },
+        {
+          "start": 512560,
+          "text": "in"
+        },
+        {
+          "start": 512640,
+          "text": "front"
+        },
+        {
+          "start": 512640,
+          "text": "of"
+        },
+        {
+          "start": 512720,
+          "text": "you?"
+        },
+        {
+          "start": 513840,
+          "text": "Yes,"
+        },
+        {
+          "start": 514080,
+          "text": "I"
+        },
+        {
+          "start": 514240,
+          "text": "do."
+        },
+        {
+          "start": 515920,
+          "text": "And"
+        },
+        {
+          "start": 516080,
+          "text": "do"
+        },
+        {
+          "start": 516240,
+          "text": "you"
+        },
+        {
+          "start": 516480,
+          "text": "recognize"
+        },
+        {
+          "start": 517440,
+          "text": "this"
+        },
+        {
+          "start": 517520,
+          "text": "document?"
+        },
+        {
+          "start": 518480,
+          "text": "Yes."
+        },
+        {
+          "start": 519520,
+          "text": "Ok?"
+        },
+        {
+          "start": 521600,
+          "text": "Can"
+        },
+        {
+          "start": 522000,
+          "text": "I"
+        },
+        {
+          "start": 522320,
+          "text": "just"
+        },
+        {
+          "start": 522560,
+          "text": "direct"
+        },
+        {
+          "start": 523120,
+          "text": "your"
+        },
+        {
+          "start": 523200,
+          "text": "attention"
+        },
+        {
+          "start": 523760,
+          "text": "to"
+        },
+        {
+          "start": 524640,
+          "text": "page"
+        },
+        {
+          "start": 524800,
+          "text": "6"
+        },
+        {
+          "start": 525200,
+          "text": "of"
+        },
+        {
+          "start": 525760,
+          "text": "the"
+        },
+        {
+          "start": 526400,
+          "text": "PDF?"
+        },
+        {
+          "start": 528960,
+          "text": "You'll"
+        },
+        {
+          "start": 529280,
+          "text": "see"
+        },
+        {
+          "start": 529840,
+          "text": "a"
+        },
+        {
+          "start": 530400,
+          "text": "six"
+        },
+        {
+          "start": 531040,
+          "text": "of"
+        },
+        {
+          "start": 531520,
+          "text": "seven"
+        },
+        {
+          "start": 532720,
+          "text": "in"
+        },
+        {
+          "start": 532720,
+          "text": "the"
+        },
+        {
+          "start": 533600,
+          "text": "bottom"
+        },
+        {
+          "start": 533760,
+          "text": "left"
+        },
+        {
+          "start": 533920,
+          "text": "hand"
+        },
+        {
+          "start": 534160,
+          "text": "corner"
+        },
+        {
+          "start": 534480,
+          "text": "of"
+        },
+        {
+          "start": 534640,
+          "text": "the"
+        },
+        {
+          "start": 534960,
+          "text": "document."
+        },
+        {
+          "start": 536480,
+          "text": "Ok?"
+        },
+        {
+          "start": 539200,
+          "text": "Oh,"
+        },
+        {
+          "start": 539280,
+          "text": "I'm"
+        },
+        {
+          "start": 539360,
+          "text": "sorry."
+        },
+        {
+          "start": 540160,
+          "text": "It's"
+        },
+        {
+          "start": 540240,
+          "text": "the"
+        },
+        {
+          "start": 540400,
+          "text": "bottom"
+        },
+        {
+          "start": 540560,
+          "text": "of"
+        },
+        {
+          "start": 541200,
+          "text": "page"
+        },
+        {
+          "start": 541440,
+          "text": "five."
+        },
+        {
+          "start": 542080,
+          "text": "My"
+        },
+        {
+          "start": 542240,
+          "text": "apologies."
+        },
+        {
+          "start": 543920,
+          "text": "So"
+        },
+        {
+          "start": 544640,
+          "text": "interrogatory"
+        },
+        {
+          "start": 545360,
+          "text": "number"
+        },
+        {
+          "start": 545680,
+          "text": "four"
+        },
+        {
+          "start": 546560,
+          "text": "at"
+        },
+        {
+          "start": 546560,
+          "text": "the"
+        },
+        {
+          "start": 546640,
+          "text": "bottom"
+        },
+        {
+          "start": 546960,
+          "text": "of"
+        },
+        {
+          "start": 547600,
+          "text": "page"
+        },
+        {
+          "start": 548320,
+          "text": "five"
+        },
+        {
+          "start": 548960,
+          "text": "reads,"
+        },
+        {
+          "start": 550240,
+          "text": "Identify"
+        },
+        {
+          "start": 551040,
+          "text": "all."
+        },
+        {
+          "start": 552160,
+          "text": "That's"
+        },
+        {
+          "start": 552480,
+          "text": "a"
+        },
+        {
+          "start": 552560,
+          "text": "typo."
+        },
+        {
+          "start": 554240,
+          "text": "Each"
+        },
+        {
+          "start": 554320,
+          "text": "and"
+        },
+        {
+          "start": 554640,
+          "text": "every"
+        },
+        {
+          "start": 555120,
+          "text": "employee,"
+        },
+        {
+          "start": 556480,
+          "text": "officer,"
+        },
+        {
+          "start": 558000,
+          "text": "agent"
+        },
+        {
+          "start": 558800,
+          "text": "or"
+        },
+        {
+          "start": 559360,
+          "text": "representative"
+        },
+        {
+          "start": 560320,
+          "text": "of"
+        },
+        {
+          "start": 560960,
+          "text": "Cannon"
+        },
+        {
+          "start": 561760,
+          "text": "who"
+        },
+        {
+          "start": 562560,
+          "text": "assisted"
+        },
+        {
+          "start": 562880,
+          "text": "with"
+        },
+        {
+          "start": 563520,
+          "text": "the"
+        },
+        {
+          "start": 563600,
+          "text": "search"
+        },
+        {
+          "start": 563760,
+          "text": "for"
+        },
+        {
+          "start": 564080,
+          "text": "documents"
+        },
+        {
+          "start": 565440,
+          "text": "responsive"
+        },
+        {
+          "start": 566000,
+          "text": "to"
+        },
+        {
+          "start": 566640,
+          "text": "plaintiff's"
+        },
+        {
+          "start": 567680,
+          "text": "first"
+        },
+        {
+          "start": 567920,
+          "text": "notice"
+        },
+        {
+          "start": 568640,
+          "text": "for"
+        },
+        {
+          "start": 568800,
+          "text": "discovery"
+        },
+        {
+          "start": 570160,
+          "text": "and"
+        },
+        {
+          "start": 570240,
+          "text": "inspection"
+        },
+        {
+          "start": 570800,
+          "text": "upon"
+        },
+        {
+          "start": 571360,
+          "text": "Cancun."
+        },
+        {
+          "start": 572560,
+          "text": "Did"
+        },
+        {
+          "start": 572720,
+          "text": "I"
+        },
+        {
+          "start": 572880,
+          "text": "read"
+        },
+        {
+          "start": 573200,
+          "text": "that"
+        },
+        {
+          "start": 573280,
+          "text": "correctly?"
+        },
+        {
+          "start": 574320,
+          "text": "Yes."
+        },
+        {
+          "start": 575760,
+          "text": "Ok."
+        },
+        {
+          "start": 576240,
+          "text": "And"
+        },
+        {
+          "start": 576560,
+          "text": "if"
+        },
+        {
+          "start": 576800,
+          "text": "you"
+        },
+        {
+          "start": 577280,
+          "text": "proceed"
+        },
+        {
+          "start": 577440,
+          "text": "down"
+        },
+        {
+          "start": 577600,
+          "text": "to"
+        },
+        {
+          "start": 577680,
+          "text": "the"
+        },
+        {
+          "start": 577840,
+          "text": "top"
+        },
+        {
+          "start": 578320,
+          "text": "of"
+        },
+        {
+          "start": 578560,
+          "text": "page"
+        },
+        {
+          "start": 578880,
+          "text": "six,"
+        },
+        {
+          "start": 580000,
+          "text": "you"
+        },
+        {
+          "start": 580640,
+          "text": "are"
+        },
+        {
+          "start": 580720,
+          "text": "identified"
+        },
+        {
+          "start": 581200,
+          "text": "as"
+        },
+        {
+          "start": 581600,
+          "text": "one"
+        },
+        {
+          "start": 581600,
+          "text": "of"
+        },
+        {
+          "start": 581760,
+          "text": "the"
+        },
+        {
+          "start": 582080,
+          "text": "individuals"
+        },
+        {
+          "start": 583200,
+          "text": "who"
+        },
+        {
+          "start": 583440,
+          "text": "assisted"
+        },
+        {
+          "start": 583680,
+          "text": "with"
+        },
+        {
+          "start": 584160,
+          "text": "the"
+        },
+        {
+          "start": 584240,
+          "text": "search"
+        },
+        {
+          "start": 584480,
+          "text": "for"
+        },
+        {
+          "start": 584640,
+          "text": "documents,"
+        },
+        {
+          "start": 585920,
+          "text": "Is"
+        },
+        {
+          "start": 586000,
+          "text": "that"
+        },
+        {
+          "start": 586080,
+          "text": "correct?"
+        },
+        {
+          "start": 587120,
+          "text": "Yes."
+        },
+        {
+          "start": 589040,
+          "text": "And"
+        },
+        {
+          "start": 589760,
+          "text": "what"
+        },
+        {
+          "start": 590320,
+          "text": "does"
+        },
+        {
+          "start": 590640,
+          "text": "the"
+        },
+        {
+          "start": 590960,
+          "text": "suffix"
+        },
+        {
+          "start": 591520,
+          "text": "PG"
+        },
+        {
+          "start": 592000,
+          "text": "after"
+        },
+        {
+          "start": 592400,
+          "text": "your"
+        },
+        {
+          "start": 592560,
+          "text": "name"
+        },
+        {
+          "start": 593120,
+          "text": "identify?"
+        },
+        {
+          "start": 594320,
+          "text": "Professional"
+        },
+        {
+          "start": 595120,
+          "text": "geologists."
+        },
+        {
+          "start": 596640,
+          "text": "Ok."
+        },
+        {
+          "start": 598080,
+          "text": "So"
+        },
+        {
+          "start": 598240,
+          "text": "now,"
+        },
+        {
+          "start": 598640,
+          "text": "how"
+        },
+        {
+          "start": 598720,
+          "text": "did"
+        },
+        {
+          "start": 598800,
+          "text": "you"
+        },
+        {
+          "start": 598880,
+          "text": "go"
+        },
+        {
+          "start": 599120,
+          "text": "about"
+        },
+        {
+          "start": 599840,
+          "text": "searching"
+        },
+        {
+          "start": 600320,
+          "text": "for"
+        },
+        {
+          "start": 600480,
+          "text": "documents"
+        },
+        {
+          "start": 601600,
+          "text": "responsive"
+        },
+        {
+          "start": 601840,
+          "text": "to"
+        },
+        {
+          "start": 602400,
+          "text": "plaintiff's"
+        },
+        {
+          "start": 603280,
+          "text": "first"
+        },
+        {
+          "start": 603520,
+          "text": "notice"
+        },
+        {
+          "start": 604160,
+          "text": "for"
+        },
+        {
+          "start": 604320,
+          "text": "discovery"
+        },
+        {
+          "start": 604800,
+          "text": "and"
+        },
+        {
+          "start": 605280,
+          "text": "inspection?"
+        },
+        {
+          "start": 606880,
+          "text": "I"
+        },
+        {
+          "start": 609000,
+          "text": "reviewed"
+        },
+        {
+          "start": 607000,
+          "text": "my"
+        },
+        {
+          "start": 607360,
+          "text": "emails"
+        },
+        {
+          "start": 607680,
+          "text": "for"
+        },
+        {
+          "start": 607760,
+          "text": "the"
+        },
+        {
+          "start": 608080,
+          "text": "property."
+        },
+        {
+          "start": 608800,
+          "text": "I"
+        },
+        {
+          "start": 609040,
+          "text": "reviewed"
+        },
+        {
+          "start": 609680,
+          "text": "electronic"
+        },
+        {
+          "start": 610640,
+          "text": "files"
+        },
+        {
+          "start": 610960,
+          "text": "for"
+        },
+        {
+          "start": 611040,
+          "text": "the"
+        },
+        {
+          "start": 611120,
+          "text": "property,"
+        },
+        {
+          "start": 612400,
+          "text": "and"
+        },
+        {
+          "start": 615120,
+          "text": "I'm"
+        },
+        {
+          "start": 615200,
+          "text": "sorry."
+        },
+        {
+          "start": 616320,
+          "text": "And"
+        },
+        {
+          "start": 616480,
+          "text": "I"
+        },
+        {
+          "start": 616560,
+          "text": "looked"
+        },
+        {
+          "start": 616880,
+          "text": "to"
+        },
+        {
+          "start": 616880,
+          "text": "see"
+        },
+        {
+          "start": 617040,
+          "text": "if"
+        },
+        {
+          "start": 617200,
+          "text": "I"
+        },
+        {
+          "start": 617360,
+          "text": "had"
+        },
+        {
+          "start": 617520,
+          "text": "any"
+        },
+        {
+          "start": 617920,
+          "text": "written"
+        },
+        {
+          "start": 618320,
+          "text": "documents."
+        },
+        {
+          "start": 621360,
+          "text": "And"
+        },
+        {
+          "start": 622000,
+          "text": "by"
+        },
+        {
+          "start": 622240,
+          "text": "the"
+        },
+        {
+          "start": 622400,
+          "text": "property,"
+        },
+        {
+          "start": 623600,
+          "text": "we're"
+        },
+        {
+          "start": 623840,
+          "text": "referring"
+        },
+        {
+          "start": 624000,
+          "text": "to"
+        },
+        {
+          "start": 624640,
+          "text": "324"
+        },
+        {
+          "start": 625784,
+          "text": "S."
+        },
+        {
+          "start": 627120,
+          "text": "Wellwood"
+        },
+        {
+          "start": 624000,
+          "text": "Ave."
+        },
+        {
+          "start": 628560,
+          "text": "London"
+        },
+        {
+          "start": 629200,
+          "text": "Hurst,"
+        },
+        {
+          "start": 629520,
+          "text": "New"
+        },
+        {
+          "start": 629600,
+          "text": "York,"
+        },
+        {
+          "start": 630480,
+          "text": "is"
+        },
+        {
+          "start": 630720,
+          "text": "that"
+        },
+        {
+          "start": 630800,
+          "text": "correct?"
+        },
+        {
+          "start": 632080,
+          "text": "Yes,"
+        },
+        {
+          "start": 632400,
+          "text": "it"
+        },
+        {
+          "start": 632400,
+          "text": "is."
+        },
+        {
+          "start": 633840,
+          "text": "And"
+        },
+        {
+          "start": 635040,
+          "text": "going."
+        }
+      ]
+    }
+  ]
+}

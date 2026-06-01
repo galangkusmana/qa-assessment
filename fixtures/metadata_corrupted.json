@@ -1,0 +1,42 @@
+{
+  "speakers": [
+    {
+      "post_asr_label": "Speaker A",
+      "role": "WITNESS",
+      "honorific_prefix": "Ms.",
+      "first_name": "Terry",
+      "last_name": "Sellingman",
+      "full_name": "Jerry Sellingman",
+      "real_time_asr_label": "MS SELIGMAN"
+    },
+    {
+      "post_asr_label": "Speaker B",
+      "role": "PLAINTIFF ATTORNEY",
+      "honorific_prefix": "Mr.",
+      "first_name": "Chris",
+      "last_name": "Jacob",
+      "full_name": "Chris Jacob",
+      "real_time_asr_label": "THE WITNESS"
+    },
+    {
+      "post_asr_label": "Speaker C",
+      "role": "COURT REPORTER",
+      "honorific_prefix": null,
+      "first_name": "Wes",
+      "last_name": "Harold",
+      "full_name": "Wes Harold",
+      "real_time_asr_label": "THE REPORTER"
+    }
+  ],
+  "proceeding_type": "Court Hearing",
+  "summary": "This hearing concerns Moonlight Plaza Association and Cannon Farms. Counsel Jerry Sellingman questions Chris Jacob, a project manager, about leases and remediation. Exhibits Cannon Farms 1 and Cancun Forms 3 are marked.",
+  "parties": [
+    "Moonlight Plaza Association",
+    "Cannon Farms",
+    "Richmond & Lavine PC"
+  ],
+  "error": "null",
+  "audio_duration_ms": 630000,
+  "transcript_duration_ms": 605000,
+  "created_at": "2025-10-09T26:61:00Z"
+}
