@@ -1,0 +1,17 @@
+{
+  "name": "moonlight-transcript-qa-assessment",
+  "version": "1.0.0",
+  "description": "TypeScript QA assessment for transcript, metadata, API, workflow, and automation quality checks.",
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "vitest run",
+    "qa:scan": "tsx src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
+  }
+}
