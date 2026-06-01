@@ -1,4 +1,4 @@
-# Moonlight Transcript QA Assessment
+# QA Assessment
 
 TypeScript-based QA assessment for transcript quality, metadata consistency, API testing, workflow testing, and automation strategy.
 
@@ -56,13 +56,5 @@ The `fixtures/` files are assessment-provided materials. If this repo will be pu
 ## Notes
 
 The implementation is intentionally simple. It does not try to be a full transcript engine. It demonstrates how a QA engineer can turn transcript defects into repeatable checks using TypeScript.
-
-
-## Submission document
-
-The main assessment response is also provided separately for easy submission:
-
-- `submission/Galang_Kusmana_QA_Assessment.pdf`
-- `submission/Galang_Kusmana_QA_Assessment.md`
 
 The TypeScript files are supporting examples for automated quality checks and workflow validation.
