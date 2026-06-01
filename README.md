@@ -1,14 +1,12 @@
-# Moonlight Transcript QA Assessment
+# QA Assessment
 
 TypeScript-based QA assessment for transcript quality, metadata consistency, API testing, workflow testing, and automation strategy.
 
 ## What is included
 
-- Full written assessment: `docs/assessment.md`
 - TypeScript quality checker: `src/qualityRules.ts`
 - Workflow transition helper: `src/workflow.ts`
 - Unit tests: `test/qualityRules.test.ts`
-- Uploaded assessment fixtures: `fixtures/`
 
 ## Requirements
 
@@ -47,11 +45,6 @@ git branch -M main
 git remote add origin <your-github-repo-url>
 git push -u origin main
 ```
-
-
-## Data usage / copyright note
-
-The `fixtures/` files are assessment-provided materials. If this repo will be public and the assessment provider did not explicitly allow redistribution, make the repo private or remove `fixtures/` before publishing. See `DATA_USAGE.md`.
 
 ## Notes
 
